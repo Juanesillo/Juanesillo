@@ -1,4 +1,8 @@
-## Hi there 👋
+#### A computer engeneering and cybersecurity student, that makes better code at night ☾
+
+- ⚙️ I use daily: `python`, `java`, `.html`, `.css` 
+
+[<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"  width="70">](https://www.java.com/en/)  | [<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"  width="70">](https://www.python.org/)  | [<img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png" width="70">]  | [<img src="https://logos-download.com/wp-content/uploads/2024/01/CSS3_Logo_full.png" width="70">]
 
 <!--
 **Juanesillo/Juanesillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
