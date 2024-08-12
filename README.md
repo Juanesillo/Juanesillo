@@ -1,8 +1,27 @@
-#### A computer engeneering and cybersecurity student, that makes better code at night ☾
+<h1> Hello I'm Juanes</h1>
 
-- ⚙️ I use daily: `python`, `java`, `.html`, `.css` 
+#### Computer engineering and cybersecurity student who codes better at night ☾
 
-[<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"  width="70">](https://www.java.com/en/)  | [<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"  width="70">](https://www.python.org/)  | [<img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png" width="70">]  | [<img src="https://logos-download.com/wp-content/uploads/2024/01/CSS3_Logo_full.png" width="70">]
+⚙️ I use daily:
+
+![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+<h2>Some stats </h2>
+
+<a href="https://github.com/Juanesillo">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanesillo&theme=radical&hide=glsl,python" />
+</a>
+  
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Juanesillo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-a45881252/)
+
+
+
 
 <!--
 **Juanesillo/Juanesillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
